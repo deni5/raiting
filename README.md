@@ -1,2 +1,2 @@
-# raiting
+# rating
 chart raiting platform
